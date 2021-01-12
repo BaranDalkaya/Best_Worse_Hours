@@ -1,0 +1,2 @@
+# Best_Worse_Hours
+This program reads 2 csv files one containing shifts of workers with info of start, end, break time and pay rate and one with transactions of a business. The program computes the different metrics for each hour including total sales, cost of labour and cost of labour as a percentage of sales. Lastly, the best and worst hours in terms of labour cost as a percentage of sales in computed.
